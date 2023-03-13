@@ -48,6 +48,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+- Dia 1:
+
+  A ideia principal é treinar estruturas de formulário nesse desafio. Portanto, penso em utilizar dois arqui-
+  vos HTML para simular uma validação de FORM.
+
+  *Por algum motivo, apenas "background" funciona com gradientes*
+  *Gradiente radial, por que eis tão complicado?*
+
 ### Built with
 
 - Semantic HTML5 markup
